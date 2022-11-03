@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\MixTask\MixTask\bin\Debug\net6.0\MixTask.exe
+C:\Users\Asus\Desktop\MixTask\MixTask\bin\Debug\net6.0\MixTask.deps.json
+C:\Users\Asus\Desktop\MixTask\MixTask\bin\Debug\net6.0\MixTask.runtimeconfig.json
+C:\Users\Asus\Desktop\MixTask\MixTask\bin\Debug\net6.0\MixTask.dll
+C:\Users\Asus\Desktop\MixTask\MixTask\bin\Debug\net6.0\MixTask.pdb
+C:\Users\Asus\Desktop\MixTask\MixTask\obj\Debug\net6.0\MixTask.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\MixTask\MixTask\obj\Debug\net6.0\MixTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\MixTask\MixTask\obj\Debug\net6.0\MixTask.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\MixTask\MixTask\obj\Debug\net6.0\MixTask.AssemblyInfo.cs
+C:\Users\Asus\Desktop\MixTask\MixTask\obj\Debug\net6.0\MixTask.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MixTask\MixTask\obj\Debug\net6.0\MixTask.dll
+C:\Users\Asus\Desktop\MixTask\MixTask\obj\Debug\net6.0\refint\MixTask.dll
+C:\Users\Asus\Desktop\MixTask\MixTask\obj\Debug\net6.0\MixTask.pdb
+C:\Users\Asus\Desktop\MixTask\MixTask\obj\Debug\net6.0\MixTask.genruntimeconfig.cache
+C:\Users\Asus\Desktop\MixTask\MixTask\obj\Debug\net6.0\ref\MixTask.dll

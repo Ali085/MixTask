@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\obj\Debug\net6.0\ReqemlerTask.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\obj\Debug\net6.0\ReqemlerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\obj\Debug\net6.0\ReqemlerTask.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\obj\Debug\net6.0\ReqemlerTask.AssemblyInfo.cs
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\obj\Debug\net6.0\ReqemlerTask.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\bin\Debug\net6.0\ReqemlerTask.exe
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\bin\Debug\net6.0\ReqemlerTask.deps.json
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\bin\Debug\net6.0\ReqemlerTask.runtimeconfig.json
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\bin\Debug\net6.0\ReqemlerTask.dll
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\bin\Debug\net6.0\ReqemlerTask.pdb
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\obj\Debug\net6.0\ReqemlerTask.dll
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\obj\Debug\net6.0\refint\ReqemlerTask.dll
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\obj\Debug\net6.0\ReqemlerTask.pdb
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\obj\Debug\net6.0\ReqemlerTask.genruntimeconfig.cache
+C:\Users\Asus\Desktop\MixTask\ReqemlerTask\ReqemlerTask\obj\Debug\net6.0\ref\ReqemlerTask.dll
